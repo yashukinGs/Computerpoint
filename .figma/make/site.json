@@ -1,0 +1,10 @@
+{
+  "description": "Offers affordable, beginner-friendly digital skills courses with easy UPI payments and WhatsApp support, designed for Indian mobile users.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
